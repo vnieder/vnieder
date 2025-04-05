@@ -14,7 +14,7 @@ Hi, I'm Vincent. In three bullet points, I:
 
 **Email Address:** Vincent.Niedermayer@gmail.com
 
-**Resume:** [See Resume (PDF)](./Vincent_Niedermayer_Resume.pdf)
+**Resume:** [Resume (PDF)](./Vincent_Niedermayer_Resume.pdf)
 
 # 💻️️ Tech Stack
 
