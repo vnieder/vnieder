@@ -1,4 +1,4 @@
-# 📌 About Me:
+# 📌 About Me
 Hi, I'm Vincent. In three bullet points, I:
 
 - Am majoring in **Applied Math** with minors in both **Computer Science** and **Physics** at the University of Pittsburgh. 
@@ -8,14 +8,14 @@ Hi, I'm Vincent. In three bullet points, I:
 - Most importantly, I enjoy building things that make a difference. <br>
 
 
-# 📫 Socials:
+# 📫 Socials
 
 **LinkedIn Profile:** https://linkedin.com/in/vincentniedermayer  
 
 **Email Address:** Vincent.Niedermayer@gmail.com
 
 
-# 💻️️ Tech Stack:
+# 💻️️ Tech Stack
 
 **Programming Languages:**
 
@@ -55,4 +55,3 @@ Hi, I'm Vincent. In three bullet points, I:
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
----
