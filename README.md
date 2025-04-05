@@ -10,13 +10,9 @@ Hi, I'm Vincent. In three bullet points, I:
 
 # 📫 Socials:
 
-**LinkedIn Profile:**
+**LinkedIn Profile:** https://linkedin.com/in/vincentniedermayer  
 
-https://linkedin.com/in/vincentniedermayer  
-
-**Email Address:**
-
-Vincent.Niedermayer@gmail.com
+**Email Address:** Vincent.Niedermayer@gmail.com
 
 
 # 💻️️ Tech Stack:
@@ -59,14 +55,4 @@ Vincent.Niedermayer@gmail.com
  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=vnieder&theme=dark&hide_border=false)<br/>
-
-<!--![](https://github-readme-stats.vercel.app/api?username=vnieder&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-<!--![](https://nirzak-streak-stats.vercel.app/?user=vnieder&theme=dark&hide_border=false)<br/>-->
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=vnieder&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-
 ---
-[![](https://visitcount.itsvg.in/api?id=vnieder&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
