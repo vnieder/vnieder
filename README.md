@@ -1,4 +1,4 @@
-# 📌 About Me
+# 📌 Hello, World
 Hi, I'm Vincent. In three bullet points, I:
 
 - Am majoring in **Applied Math** with minors in both **Computer Science** and **Physics** at the University of Pittsburgh. 
