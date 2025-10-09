@@ -2,9 +2,18 @@
 
 # 🌎 Hello, World
 
-**LinkedIn Profile:** https://linkedin.com/in/vincentniedermayer
+* Applied Math + Computer Science @ Pitt 
+* Currently building AI/ML apps @ [AWS Cloud Innovation Center](https://github.com/pitt-cic/)
 
-**Email Address:** Vincent.Niedermayer@gmail.com
+### Find me here
+<table>
+  <tbody>
+    <tr><td>Website</td><td><a href="https://vincentniedermayer.com">vincentniedermayer.com</a></td></tr>
+    <tr><td>LinkedIn</td><td><a href="https://linkedin.com/in/vincentniedermayer">linkedin.com/in/vincentniedermayer</a></td></tr>
+    <tr><td>Email</td><td><a href="mailto:Vincent.Niedermayer@gmail.com">Vincent.Niedermayer@gmail.com</a></td></tr>
+  </tbody>
+</table>
+
 
 # 💻️️ Tech Stack
 
