@@ -1,14 +1,6 @@
-# 📌 Hello, World
+<div align="center"><h3>𝑝𝑒𝑟 𝑎𝑠𝑝𝑒𝑟𝑎 𝑎𝑑 𝑎𝑠𝑡𝑟𝑎</h3></div>
 
-Hi, I'm Vincent. In three bullet points, I:
-
-- Am majoring in **Applied Math** with minors in both **Computer Science** and **Physics** at the University of Pittsburgh.
-
-- Have several years of experience in **Machine Learning**, **Generative AI**, and **Web Development**.
-
-- Most importantly, I enjoy building things that make a difference. <br>
-
-# 📫 Socials
+# 🌎 Hello, World
 
 **LinkedIn Profile:** https://linkedin.com/in/vincentniedermayer
 
