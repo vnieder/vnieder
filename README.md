@@ -3,7 +3,8 @@
 # 🌎 Hello, World
 
 * Applied Math + Computer Science @ Pitt 
-* Currently building AI/ML apps @ [AWS Cloud Innovation Center](https://github.com/pitt-cic/)
+* Current SWE Intern @ [Box](https://github.com/box)
+* Prev. Intern @ [Pitt AWS Cloud Innovation Center](https://github.com/pitt-cic/)
 
 ### Find me here
 <table>
